@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me knwigwea@gmail.com
+- 📫 How to reach me knwigweani@gmail.com
 
 
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
